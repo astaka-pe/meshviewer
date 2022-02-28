@@ -1,0 +1,10 @@
+name: qtbeginner
+channels:
+  - defaults
+dependencies:
+  - sip=4.19
+  - pyqt=5.9.2
+  - pyqtgraph
+  - pyopengl
+pip:
+  - pymeshlab
